@@ -1,0 +1,19 @@
+header{
+    margin-bottom:12%;
+}
+body{
+    overflow-x: hidden;
+}
+
+
+
+
+ul li{
+list-style-type: none;
+}
+footer ul li a{
+  float:left;  
+}
+footer .section3 a{
+    padding: 5px 22px;
+}
