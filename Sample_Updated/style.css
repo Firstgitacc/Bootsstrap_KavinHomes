@@ -87,7 +87,7 @@ ul li{
         color:whitesmoke;
         font-family:'Roboto',arial,sans-serif;
         border-radius: 0px;
-
+		margin-top: 10%;
     }
 
     .display-content-head
@@ -99,11 +99,6 @@ ul li{
     {
         font-size: 12px;font-style: italic;
     }
-
-    .img-height
-    {
-        height:100px;
-    }
     .padding-right-0
     {
         padding-right:0px;
@@ -113,3 +108,13 @@ ul li{
         padding-left:0px;
     }
     
+
+ul li{
+list-style-type: none;
+}
+footer ul li a{
+  float:left;  
+}
+footer .section3 a{
+    padding: 5px 22px;
+}
